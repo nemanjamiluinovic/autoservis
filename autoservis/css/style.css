@@ -1,0 +1,135 @@
+*{
+	padding: 0;
+	margin: 0 auto;
+	color: white;
+}
+a{
+	text-decoration: none;
+	
+}
+#dm{
+	float:left;
+}
+#grafik{
+	width: 400px;
+	height: auto;
+	float: left;
+	padding-left:50px;
+}
+#spisak{
+	width:75%;
+	
+}
+#pita{
+	background-color: black;
+}
+body{
+	background:gray;
+	height: 100vh;
+	
+}
+#header{
+	height: 10%;
+	text-align: center;
+	background-color: black;
+	width: auto;
+}
+#logout{
+	float: right;
+	padding-right: 30px
+}
+#sadrzaj{
+	height: 80%;   
+}
+#navigacija{
+	float: left;
+	width: 11%;
+  padding-top: 15px;
+	height: 90%;
+}
+#navigacija ul{
+  list-style-type: none;
+	width: 80%;
+	height: 90%;
+}
+
+#navigacija ul li{
+	padding:3px;
+	border:2px solid white;
+	background:black;
+	
+}
+#greske{
+	color: #c00
+}
+
+#prikaz{
+	float: left;
+	width: 85%;
+}
+#footer{
+	height: 10%;
+	background-color: black;
+	text-align:center;
+}
+#forma{
+	text-align: center;
+	height: 20%;
+	padding-top: 180px;
+}
+#forma input{
+	color: black;
+	padding: 20px;
+	border-radius: 20px;
+	border: 3px solid black;
+	margin-top: 10px;
+	opacity: 0.8;
+}
+#tabela{
+	height: 520px;
+	width: 1580px;
+		
+}
+#pagination{
+	width:20%;
+	margin-left: 850px;
+	margin-top:20px; 
+}
+#pretraga{
+	width: 220px;
+	float: left
+}
+form input,select{ 
+	color:black;
+}
+textarea{
+	color:black;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+table td input{
+	color:black;
+	
+}
+
+tr:nth-child(even) {
+    background-color: black;
+}
+.unos{
+	float: left;
+	width: 45%;
+}
+
+
+.cistac{
+	clear: both;
+}
